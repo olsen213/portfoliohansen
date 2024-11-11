@@ -6,10 +6,6 @@
     <title>Olsen Hansen Portfolio</title>
 </head>
 <body>
-    <h1>
-        My personal Portfolio
-    </h1>
-    <p>Click on the various links to explore this site</p>
     <nav>
         <a href="site-plan.html">Site Plan</a>
         <a href="homepage">Home</a>
