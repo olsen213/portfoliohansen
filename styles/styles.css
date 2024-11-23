@@ -1,0 +1,19 @@
+nav  {
+    
+    padding:1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #87B6A7;
+}
+
+nav a:hover {
+    background-color: white;
+}
+
+.hmplogo {
+    border: 5px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 2%;    
+  }

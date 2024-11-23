@@ -30,6 +30,12 @@ Fonts are separated by a | */
 .logo {
   max-height: 400px;
 }
+
+#contact{
+  text-align: left;
+  margin: auto;
+  font-size: x-large;
+}
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
