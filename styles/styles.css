@@ -5,6 +5,9 @@ nav  {
     text-decoration: none;
     padding: 10px;
     background-color: #87B6A7;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    font-size: 20px;
 }
 
 nav a:hover {
@@ -17,3 +20,14 @@ nav a:hover {
     padding: 5px;
     width: 2%;    
   }
+
+.hmpmain {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+footer {
+    display: grid;
+    display: inline;
+}
