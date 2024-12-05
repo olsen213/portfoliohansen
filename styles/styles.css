@@ -28,6 +28,13 @@ nav a:hover {
 }
 
 footer {
-    display: grid;
-    display: inline;
+    background-color: #87B6A7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+
+.hmpf a:hover {
+    background-color: white;
 }
