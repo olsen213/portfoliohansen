@@ -91,3 +91,18 @@ section.hmpf {
     background-color: white;
     text-decoration: none;
 }
+
+/* About Me Second page of personal site */
+
+.box3 {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(4, 1fr);
+}
+
+h1.titleam {
+    display:grid;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+}
