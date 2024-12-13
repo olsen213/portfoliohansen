@@ -143,8 +143,17 @@ h1.titleam {
     /* display: flex;
     justify-content: space-between; */
     text-align: left;
-    padding: 0 30% 10% 30%;
-    margin: auto 0;
+    padding: 6% 27%;
+    margin: 0 auto;
+}
+
+.p4 {
+    text-align: left;
+    margin: 12% 4%;
+}
+
+.p2 .p3 .p4 {
+    border-radius: 10px solid black
 }
 
 .mcenter {
@@ -163,12 +172,11 @@ h1.titleam {
 }
 
 .photo3 {
-    margin: 0 35%;
+    margin: 0 34%;
     width: 20em;
 }
 
 .photo4 {
-    grid-column: 4/5;
-    margin: 0 auto;
+    margin: 0 17%;
     width: 20em;
 }
