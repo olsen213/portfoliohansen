@@ -1,4 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
+h1 {
+    font-family: "Roboto Condensed";
+}
+
+p {
+    font-family: Raleway, Oswald, serif;
+}
 
 nav  {
     display: grid;
@@ -7,6 +15,7 @@ nav  {
     padding: 10px;
     background-color: #87B6A7;
     font-size: 20px;
+    font-family: "Roboto Condensed";
 }
 
 nav a.link:hover {
@@ -71,6 +80,7 @@ footer {
     grid-template-columns: repeat(4, 1fr);
     padding: 10px;
     background-color: #87B6A7;
+    font-family: "Roboto Condensed";
     
 }
 section.social {
