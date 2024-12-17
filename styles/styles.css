@@ -85,13 +85,13 @@ footer {
     font-family: "Roboto Condensed";
     
 }
-section.social {
+.social {
     grid-column: 1/2;
     display: flex;
 
 }
 
-section.hmpf {
+.hmpf {
     font-size: 20px;
     grid-column: 2/5;
     display: flex;
