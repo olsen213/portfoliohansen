@@ -108,6 +108,70 @@ footer {
     text-decoration: none;
 }
 
+/* About Me: Second page of personal site */
+
+.photo1 {
+    display: grid;
+    margin: 10% auto;
+    width: 70%;
+}
+#p1 {
+    display: grid;
+    grid-column: 2/3;
+}
+.box3 {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+h1.titleam {
+    display:grid;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+}
+#box4 {
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.firstleft {
+    grid-column: 1/2;
+}
+.title1 {
+    text-align: center;   
+}
+.p2 {
+    text-align: left;
+}
+#title3 {
+    text-align: center;
+    margin: 0 auto;
+}
+.p3 {
+    margin: 5% 25%;
+}
+.p4 {
+    text-align: left;
+    margin: 12% 4%;
+}
+.mcenter {
+    grid-column: 2/4;
+}
+.left {
+    grid-column: 4/5;
+}
+.photo2 {
+    padding-left: 3%;
+    width: 30em;
+}
+.photo3 {
+    margin: 0 35%;
+    width: 20em;
+}
+.photo4 {
+    margin: 0 17%;
+    width: 20em;
+}
+
 /* Work Experience: Personal Site subpage 2 */
 
 h1 {
@@ -181,7 +245,6 @@ h1 {
     grid-column: 2/5;
     margin: 11% auto;
 }
-
 
 
 .wss {
