@@ -6,6 +6,10 @@ h1 {
     font-family: "Roboto Condensed";
 }
 
+a {
+    color: black;
+    text-decoration: none;
+}
 p {
     font-family: Raleway, Oswald, serif;
 }
