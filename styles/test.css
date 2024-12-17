@@ -1,0 +1,90 @@
+/* Work Experience: Personal Site subpage 2
+
+h1 {
+    text-align: center;
+}
+
+.wbox2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} 
+
+.wwe {
+    grid-column: 1/2;
+}
+
+.wp1 {
+    grid-column: 1/2;
+    text-align: left;
+    padding: 10px;
+    margin: 0 5%;
+}
+
+.wp1, .wp2, .wp3 {
+    font-size: x-large;
+}
+.wpic1 {
+    width: 40%;
+    padding-bottom: 10px;
+    margin: 0 25%;
+}
+
+.wpic2 {
+    width: 30em;
+    grid-column: 1/2;
+    margin: 0 10%;
+}
+
+.wpic3 {
+    width: 300px;
+    margin: 0 22%;
+    grid-column: 1/2;
+}
+
+.wbox3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#wfp {
+    grid-column: 2/4;
+}
+
+.wbox3, .wbox4 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.wp2 {
+    text-align: left;
+    grid-column: 2/5;
+    padding: 0 5%;
+}
+
+#whf {
+    grid-column: 2/4;
+}
+
+
+.wss {
+    grid-column: 1/6;
+}
+
+.wbox5 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.wbox6 {
+    grid-column: 2/3;
+    font-size: x-large;
+    line-height: 30px;
+    margin-left: auto;
+}
+
+.wbox7 {
+    grid-column: 4/5;
+    font-size: x-large;
+    line-height: 30px;
+}
+*/
